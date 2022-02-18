@@ -1,0 +1,15 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(#ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff0000);
+}
+
+.login_div {
+    text-align: center;
+    float: none;
+    border-radius: 15px;
+}
